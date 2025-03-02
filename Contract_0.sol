@@ -7,7 +7,7 @@ contract SimpleStorage_0 {
     string public message;
 
     constructor() {
-        randomNumber = 57;
+        randomNumber = 93;
         message = "Hello from commit 0 - 2025-03-02 18:07:23";
     }
 
